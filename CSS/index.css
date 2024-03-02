@@ -44,6 +44,11 @@ body {
     backdrop-filter: blur(7.5px);
 }
 
+
 .kkk {
   background-image: url(images/Asset\ 1\ 2\ 1.png);
+}
+
+#smNav{
+  transition: opacity 1.4s ease-in-out;
 }
